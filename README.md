@@ -3,6 +3,25 @@
 ## Overview
 This project is a Sudoku game implemented in x86 Assembly language. It features a graphical interface and various functionalities to provide an interactive and engaging experience for the user. The game includes a grid-based layout, user input handling, and visual feedback for gameplay actions.
 
+## Picture Elements
+Below are some visual representations of the game:
+
+1. **Start Screen**  
+   ![Start Screen](start.png)  
+   The initial screen where the user can choose to start a new game, view help, or exit.
+
+2. **Game Grid (Initial State)**  
+   ![Game Grid Initial](grid1.png)  
+   The Sudoku grid displayed at the start of the game, showing pre-filled numbers.
+
+3. **Game Grid (In Progress)**  
+   ![Game Grid In Progress](grid2.png)  
+   The grid dynamically updated as the user fills in numbers.
+
+4. **End Screen**  
+   ![End Screen](end.png)  
+   The final screen displayed upon completing the game, thanking the user for playing.
+
 ## Features
 
 ### 1. **Graphical Interface**
